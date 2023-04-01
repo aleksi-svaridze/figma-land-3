@@ -1,0 +1,74 @@
+body {
+    font-family: Averta;
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--color-black);
+}
+.brand {
+    text-transform: capitalize;
+    font-size: 27.15px;
+    line-height: 33.55px;
+    color: var(--color-black);
+}
+.brand-bold {
+    font-family: ProximaNova;
+    font-weight: 700;
+    font-size: 27.15px;
+    line-height: 33.07px;
+}
+.hero-desc {
+    font-size: 16px;
+    line-height: 160%;
+    color: var(--color-gray-dark);
+    margin: 45px 0 40px;
+}
+.clients-desc {
+    font-size: 18px;
+    line-height: 29px;
+    color: var(--color-gray);
+}
+.services-desc {
+    font-size: 16px;
+    line-height: 26px;
+    color: var(--color-gray-dark);
+}
+.card-desc {
+    font-size: 16px;
+    line-height: 22px;
+    color: var(--color-gray);
+}
+.heading-primary {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+}
+.heading-secondary {
+    text-transform: capitalize;
+    font-size: 24px;
+    line-height: 30px;
+}
+.heading-tertiary {
+    font-size: 20px;
+    line-height: 25px;
+}
+.header-menu--links {
+    text-transform: capitalize;
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--color-black);
+}
+.header-menu--links:not(:last-child) {
+    margin-right: 60px;
+}
+.footer-menu--links {
+    font-size: 14px;
+    line-height: 28px;
+}
+.btn-font-16 {
+    font-size: 16px;
+    line-height: 20px;
+}
+.btn-font-20 {
+    font-size: 20px;
+    line-height: 25px;
+}

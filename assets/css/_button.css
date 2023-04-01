@@ -1,0 +1,22 @@
+.btn {
+    text-transform: capitalize;
+    background-color: var(--color-blue);
+    color: var(--color-white);
+    letter-spacing: 0.065em;
+    border: 0.5px solid var(--color-white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 60px;
+}
+.btn-small {
+    width: 188px;
+    height: 60px;
+}
+.btn-large {
+    width: 215px;
+    height: 65px;
+
+    position: relative;
+    z-index: 10;
+}

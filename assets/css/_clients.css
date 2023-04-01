@@ -1,0 +1,40 @@
+.section-clients {
+    margin-top: 97px;
+}
+.clients {
+    padding: 50px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.clients-text-content {
+    width: 336px;
+}
+.clients-text-content .heading-primary {
+    text-transform: capitalize;
+    margin-bottom: 35px;
+}
+.clients-image-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.clients-image-content img:not(:last-child) {
+    margin-right: 60px;
+}
+.google {
+    width: 150.48px;
+    height: 49.38px;
+}
+.airbnb {
+    width: 166.41px;
+    height: 52.14px;
+}
+.uber {
+    width: 166.41px;
+    height: 27.73px;
+}
+.amazon {
+    width: 141.55px;
+    height: 42.61px;
+}

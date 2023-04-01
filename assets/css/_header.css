@@ -1,0 +1,14 @@
+.section-header {
+    background-color: var(--color-white);
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 47px 0 68px;
+}
+
+.header-navigation {
+    display: flex;
+    align-items: center;
+}

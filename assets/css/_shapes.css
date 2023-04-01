@@ -1,0 +1,30 @@
+.shapes {
+    position: absolute;
+    z-index: -5;
+}
+.hero-blue-shape {
+    left: -65px;
+    top: 0;
+    width: 129px;
+    height: 129px;
+    background: #DAE9FF;
+
+    border-radius: 50%;
+}
+.hero-pink-shape {
+    bottom: -96px;
+    right: 120px;
+    width: 178px;
+    height: 178px;
+    background: #FFF5DB;
+
+    border-radius: 0px 0px 100px 0px;
+}
+.services-pink-shape {
+    width: 178px;
+    height: 178px;
+    left: -38px;
+    top: -60px;
+    background: #FFF5DB;
+    border-radius: 100px 0px 0px 0px;
+}
