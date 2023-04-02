@@ -49,3 +49,13 @@
     border: 8.8px solid #FF007A;
     z-index: -5;
 }
+.about-blue-shape {
+    position: absolute;
+    top: -24px;
+    left: -40px;
+    width: 178px;
+    height: 178px;    
+    background: #EFF1FF;
+    border-radius: 0px 0px 100px 0px;
+    z-index: -5;
+}
