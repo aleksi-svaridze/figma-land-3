@@ -8,7 +8,6 @@
     width: 129px;
     height: 129px;
     background: #DAE9FF;
-
     border-radius: 50%;
 }
 .hero-pink-shape {
@@ -17,7 +16,6 @@
     width: 178px;
     height: 178px;
     background: #FFF5DB;
-
     border-radius: 0px 0px 100px 0px;
 }
 .services-pink-shape {
@@ -40,22 +38,26 @@
     z-index: 10;
 }
 .services-red-shape {
-    position: absolute;
     border-radius: 50%;
     width: 120px;
     height: 120px;
     right: 145px;
     bottom: 44px;
     border: 8.8px solid #FF007A;
-    z-index: -5;
 }
 .about-blue-shape {
-    position: absolute;
     top: -24px;
     left: -40px;
     width: 178px;
     height: 178px;    
     background: #EFF1FF;
     border-radius: 0px 0px 100px 0px;
-    z-index: -5;
+}
+.testimonials-pink-shape {
+    left: 20px;
+    top: 120px;
+    width: 184px;
+    height: 184px;
+    background: #FFF5DB;
+    border-radius: 50%;
 }
