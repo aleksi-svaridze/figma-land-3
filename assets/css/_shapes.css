@@ -28,3 +28,24 @@
     background: #FFF5DB;
     border-radius: 100px 0px 0px 0px;
 }
+.services-blue-shape {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #F4F9FF;
+    height: 619px;
+    width: 1047px;
+    border-radius: 150px 0px 0px 0px;
+    z-index: 10;
+}
+.services-red-shape {
+    position: absolute;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    right: 145px;
+    bottom: 44px;
+    border: 8.8px solid #FF007A;
+    z-index: -5;
+}
