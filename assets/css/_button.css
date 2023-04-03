@@ -8,6 +8,7 @@
     align-items: center;
     justify-content: center;
     border-radius: 60px;
+    cursor: pointer;
 }
 .btn-small {
     width: 188px;

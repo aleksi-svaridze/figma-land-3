@@ -1,0 +1,37 @@
+.footer {
+    padding: 63px 0 29px;
+    border-top: 1px solid #E4E4E4;
+    border-bottom: 1px solid #E4E4E4; 
+
+    display: flex;
+    justify-content: space-between;
+}
+.footer-text-left-content {
+    background-color: red;
+    width: 270px;
+}
+.footer-text-right-content {
+    background-color: orange;
+}
+.soc-icons {
+    display: flex;
+    align-items: center;
+}
+.soc-icons a:not(:last-child){
+    margin-right: 16px;
+}
+.icon {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 36px;
+    height: 36px;
+}
+.facebook-icon {
+    background-image: url(../img/footer_section/facebook.svg);
+}
+.twitter-icon {
+    background-image: url(../img/footer_section/twitter.svg);
+}
+.linkedin-icon {
+    background-image: url(../img/footer_section/linkedin.svg);
+}
