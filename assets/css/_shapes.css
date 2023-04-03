@@ -61,3 +61,11 @@
     background: #FFF5DB;
     border-radius: 50%;
 }
+.subscribe-pink-shape {
+    width: 178px;
+    height: 178px;
+    left: -38px;
+    bottom: -39px;
+    background: #FFF5DB;
+    border-radius: 0px 0px 0px 100px;
+}

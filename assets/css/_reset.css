@@ -7,3 +7,6 @@ a:link,
 a:visited {
     text-decoration: none;
 }
+input:focus {
+    outline: none;
+}

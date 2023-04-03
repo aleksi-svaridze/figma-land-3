@@ -52,6 +52,11 @@ body {
     line-height: 26px;
     color: var(--color-gray-dark);
 }
+.subscribe-desc {
+    font-size: 18px;
+    line-height: 29px;
+    color: var(--color-gray);
+}
 .heading-primary {
     font-weight: 400;
     font-size: 40px;
