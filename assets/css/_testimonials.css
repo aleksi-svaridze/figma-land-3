@@ -13,6 +13,9 @@
     align-items: center;
     justify-content: space-between;
 }
+.testimonials > section{
+    /* flex-shrink: 0; */
+}
 .testimonials-image-content {
     width: 389px;
     height: 389px;
