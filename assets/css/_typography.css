@@ -94,8 +94,11 @@ body {
     margin-right: 60px;
 }
 .footer-menu--links {
+    color: var(--color-black);
+    text-transform: capitalize;
     font-size: 14px;
-    line-height: 28px;
+    line-height: 14px;
+    margin-bottom: 14px;
 }
 .btn-font-16 {
     font-size: 16px;

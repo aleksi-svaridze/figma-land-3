@@ -5,13 +5,25 @@
 
     display: flex;
     justify-content: space-between;
+    column-gap: 190px;
 }
 .footer-text-left-content {
-    background-color: red;
     width: 270px;
 }
 .footer-text-right-content {
-    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 100px;
+}
+.footer-navigation {
+    margin-top: 26px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.columns {
+    flex-shrink: 0;
+    flex-grow: 1;
 }
 .soc-icons {
     display: flex;
