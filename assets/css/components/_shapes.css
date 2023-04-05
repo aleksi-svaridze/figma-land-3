@@ -7,23 +7,23 @@
     top: 0;
     width: 129px;
     height: 129px;
-    background: #DAE9FF;
+    background: var(--color-blue-light--1);
     border-radius: 50%;
 }
-.hero-pink-shape {
+.hero-orange-shape {
     bottom: -96px;
     right: 120px;
     width: 178px;
     height: 178px;
-    background: #FFF5DB;
+    background: var(--color-orange--2);
     border-radius: 0px 0px 100px 0px;
 }
-.services-pink-shape {
+.services-orange-shape {
     width: 178px;
     height: 178px;
     left: -38px;
     top: -60px;
-    background: #FFF5DB;
+    background: var(--color-orange--2);
     border-radius: 100px 0px 0px 0px;
 }
 .services-blue-shape {
@@ -31,7 +31,7 @@
     right: 0;
     top: 50%;
     transform: translateY(-50%);
-    background-color: #F4F9FF;
+    background-color: var(--color-blue-light--3);
     height: 619px;
     width: 1047px;
     border-radius: 150px 0px 0px 0px;
@@ -43,14 +43,14 @@
     height: 120px;
     right: 145px;
     bottom: 44px;
-    border: 8.8px solid #FF007A;
+    border: 8.8px solid var(--color-red);
 }
 .about-blue-shape {
     top: -24px;
     left: -40px;
     width: 178px;
     height: 178px;    
-    background: #EFF1FF;
+    background: var(--color-blue-light--2);
     border-radius: 0px 0px 100px 0px;
 }
 .about-image-content::after {
@@ -60,22 +60,22 @@
     height: 129px;
     bottom: -64px;
     right: -40px;
-    background: #FFF5DB;
+    background: var(--color-orange--2);
     border-radius: 50%;
     z-index: -5;
 }
-.testimonials-pink-shape {
+.testimonials-orange-shape {
     left: 20px;
     top: 120px;
     width: 184px;
     height: 184px;
-    background: #FFF5DB;
+    background: var(--color-orange--2);
     border-radius: 50%;
 }
 .testimonials-image-content::after {
     content: '';
     position: absolute;
-    border: 8.8px solid #FF007A;
+    border: 8.8px solid var(--color-red);
     border-radius: 50%;
     left: -10px;
     bottom: 12px;
@@ -83,11 +83,11 @@
     height: 120px;
     z-index: -5;
 }
-.subscribe-pink-shape {
+.subscribe-orange-shape {
     width: 178px;
     height: 178px;
     left: -38px;
     bottom: -39px;
-    background: #FFF5DB;
+    background: var(--color-orange--2);
     border-radius: 0px 0px 0px 100px;
 }

@@ -6,17 +6,17 @@
 .pagination-dot {
     width: 16px;
     height: 16px;
-    background: #E7F0FC;
+    background: var(--color-blue-light--5);
     border-radius: 50%;
     transition: background-color .2s;
 }
 .pagination-dot:hover {
-    background-color: #2639ED;
+    background-color: var(--color-blue);
     cursor: pointer;
 }
 .pagination-dot:not(:last-child) {
     margin-right: 26px;
 }
 .active {
-    background-color: #2639ED;
+    background-color: var(--color-blue);
 }

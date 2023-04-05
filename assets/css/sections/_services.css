@@ -25,16 +25,16 @@
     margin-bottom: 30px;
 }
 .bg-blue {
-    background-color: #F1F7FF;
+    background-color: var(--color-blue-light--4);
 }
 .bg-orange {
-    background-color: #FFF7E3;
+    background-color: var(--color-orange--1);
 }
 .bg-red {
-    background-color: #FFF2F8;
+    background-color: var(--color-red-light);
 }
 .bg-green {
-    background-color: #DEFFEE;
+    background-color: var(--color-green-light);
 }
 .services-text-content {
     width: 390px;
