@@ -4,6 +4,9 @@
 @import './basis/_typography.css';
 
 @import './components/_container.css';
+@import './components/_pagination.css';
+@import './components/_dot-ornaments.css';
+@import './components/_card.css';
 @import './components/_shapes.css';
 @import './components/_button.css';
 

@@ -10,14 +10,6 @@
     align-items: center;
     justify-content: space-between;
 }
-.subscribe-dot-ornament {
-    width: 175px;
-    height: 154px;
-    position: absolute;
-    right: -30px;
-    top: -55px;
-    z-index: -5;
-}
 .subscribe-text-content .heading-primary {
     text-transform: capitalize;
     margin-bottom: 17px;

@@ -28,17 +28,6 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.about-image-content::after {
-    content: '';
-    position: absolute;
-    width: 129px;
-    height: 129px;
-    bottom: -64px;
-    right: -40px;
-    background: #FFF5DB;
-    border-radius: 50%;
-    z-index: -5;
-}
 .about-text-content {
     width: 532px;
 }

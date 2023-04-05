@@ -53,6 +53,17 @@
     background: #EFF1FF;
     border-radius: 0px 0px 100px 0px;
 }
+.about-image-content::after {
+    content: '';
+    position: absolute;
+    width: 129px;
+    height: 129px;
+    bottom: -64px;
+    right: -40px;
+    background: #FFF5DB;
+    border-radius: 50%;
+    z-index: -5;
+}
 .testimonials-pink-shape {
     left: 20px;
     top: 120px;
@@ -60,6 +71,17 @@
     height: 184px;
     background: #FFF5DB;
     border-radius: 50%;
+}
+.testimonials-image-content::after {
+    content: '';
+    position: absolute;
+    border: 8.8px solid #FF007A;
+    border-radius: 50%;
+    left: -10px;
+    bottom: 12px;
+    width: 120px;
+    height: 120px;
+    z-index: -5;
 }
 .subscribe-pink-shape {
     width: 178px;

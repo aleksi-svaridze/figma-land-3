@@ -1,0 +1,22 @@
+.pagination-container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.pagination-dot {
+    width: 16px;
+    height: 16px;
+    background: #E7F0FC;
+    border-radius: 50%;
+    transition: background-color .2s;
+}
+.pagination-dot:hover {
+    background-color: #2639ED;
+    cursor: pointer;
+}
+.pagination-dot:not(:last-child) {
+    margin-right: 26px;
+}
+.active {
+    background-color: #2639ED;
+}
