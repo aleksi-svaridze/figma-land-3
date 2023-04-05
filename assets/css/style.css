@@ -1,15 +1,17 @@
-@import './_reset.css';
-@import './_variables.css';
-@import './_container.css';
-@import './_shapes.css';
-@import './_fonts.css';
-@import './_typography.css';
-@import './_button.css';
-@import './_header.css';
-@import './_hero.css';
-@import './_clients.css';
-@import './_services.css';
-@import './_about.css';
-@import './_testimonials.css';
-@import './_subscribe.css';
-@import './_footer.css';
+@import './basis/_reset.css';
+@import './basis/_variables.css';
+@import './basis/_fonts.css';
+@import './basis/_typography.css';
+
+@import './components/_container.css';
+@import './components/_shapes.css';
+@import './components/_button.css';
+
+@import './sections/_header.css';
+@import './sections/_hero.css';
+@import './sections/_clients.css';
+@import './sections/_services.css';
+@import './sections/_about.css';
+@import './sections/_testimonials.css';
+@import './sections/_subscribe.css';
+@import './sections/_footer.css';

@@ -39,11 +39,11 @@
     height: 36px;
 }
 .facebook-icon {
-    background-image: url(../img/footer_section/facebook.svg);
+    background-image: url(../../img/footer_section/facebook.svg);
 }
 .twitter-icon {
-    background-image: url(../img/footer_section/twitter.svg);
+    background-image: url(../../img/footer_section/twitter.svg);
 }
 .linkedin-icon {
-    background-image: url(../img/footer_section/linkedin.svg);
+    background-image: url(../../img/footer_section/linkedin.svg);
 }

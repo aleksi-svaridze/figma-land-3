@@ -19,7 +19,7 @@
 .testimonials-image-content {
     width: 389px;
     height: 389px;
-    background-image: url(../img/testimonial_section/user_9.jpg);
+    background-image: url(../../img/testimonial_section/user_9.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -28,7 +28,7 @@
     position: relative;
 }
 .testimonials-image-content::before {
-    content: url(../img/testimonial_section/testimonials-dot-ornament.svg);
+    content: url(../../img/testimonial_section/testimonials-dot-ornament.svg);
     position: absolute;
     right: -40px;
     top: -40px;
